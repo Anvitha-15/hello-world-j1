@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New User Registration Form!!! </h1>
     <h2>Welcome Anvi Bavi to this field!!</h2>
-    <p>Please fill in this form to create an account.</p>
+    <p style="color:red">Please fill in this form to create an account.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
