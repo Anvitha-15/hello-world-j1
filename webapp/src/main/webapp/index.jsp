@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Registration Form!!! </h1>
+    <h1>User Registration Form!!! </h1>
     <h2>Welcome Anvi Bavi to this field!!</h2>
     <p style="color:red">Please fill in this form to create an account.</p>
     <hr>
