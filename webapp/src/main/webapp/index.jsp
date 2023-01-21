@@ -1,4 +1,23 @@
-<form action="action_page.php">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    h1{
+      color:red;
+    }
+  </style>
+</head>
+<body>
+  <h1>hii anvibavi</h1>
+</body>
+</html>
+
+
+<!-- <form action="action_page.php">
   <div class="container">
     <center><h1>User Register for DevOps Learning!!!</h1></center>
     <p>Please fill in this form to create an account.</p>
@@ -37,4 +56,4 @@
   </div>
 
   
-</form>
+</form> -->
