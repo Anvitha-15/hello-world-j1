@@ -7,7 +7,7 @@
   <title>Document</title>
   <style>
     h1{
-      color:red;
+      color:rgb(0, 255, 38);
     }
   </style>
 </head>
