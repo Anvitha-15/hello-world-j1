@@ -13,7 +13,6 @@
 </head>
 <body>
   <h1>hii anvibavi</h1>
-  <a href="../webapp/index.html" class="href">hiiii</a>
 </body>
 </html>
 
