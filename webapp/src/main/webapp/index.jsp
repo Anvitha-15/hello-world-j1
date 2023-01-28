@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -14,12 +14,12 @@
 <body>
   <h1>Hii Anvi Bavi This is our Project</h1>
 </body>
-</html>
+</html> -->
 
 
-<!-- <form action="action_page.php">
+<form action="action_page.php">
   <div class="container">
-    <center><h1>User Register for DevOps Learning!!!</h1></center>
+    <center><h1>New User Register for DevOps Learning!!!</h1></center>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -56,4 +56,4 @@
   </div>
 
   
-</form> -->
+</form>
