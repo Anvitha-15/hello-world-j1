@@ -55,5 +55,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+  <h1>Yes Successfully Completed!!</h1>
   
 </form>
