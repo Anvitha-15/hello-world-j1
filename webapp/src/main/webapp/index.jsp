@@ -17,7 +17,7 @@
 </html> -->
 
 
-<!-- <form action="action_page.php">
+<form action="action_page.php">
   <div class="container">
     <center><h1>New User Register for DevOps Learning!!!</h1></center>
     <p>Please fill in this form to create an account.</p>
@@ -57,4 +57,4 @@
 
   <h1>Yes Successfully Completed!!😄</h1>
   
-</form> -->
+</form>
