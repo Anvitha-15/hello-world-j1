@@ -4,7 +4,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 .header{
-    background: #680808;
+    background: hsl(180, 92%, 36%);
 }
 .navbar{
     padding-top: 20px !important;
