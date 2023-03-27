@@ -4,7 +4,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 .header{
-    background: #6900d1;
+    background: #fb0e88;
 }
 .navbar{
     padding-top: 20px !important;
@@ -53,7 +53,7 @@
     padding: 12px;
     width: 150px;
     display: inline-block;
-    background: #6900d1;
+    background: #fb0e88;
     text-decoration: none !important;
     color: #fff;
     border: 2px solid #fff;
@@ -112,7 +112,7 @@
     cursor: pointer;
 }
 .service-box:hover,.active-service{
-    background: #6900d1;
+    background: #fb0e88;
     border-radius: 5px;
     color: #fff !important;
     box-shadow: 0 15px 15px 2px rgba(213,213,213,0.5);
@@ -149,7 +149,7 @@
     width: 170px;
     padding: 15px 10px;
     display: block;
-    background: #6900d1;
+    background: #fb0e88;
     text-decoration: none !important;
     color: #fff !important;
     border-radius: 5px;
@@ -204,7 +204,7 @@
     color: #808080 !important;
 }
 .carousel-indicators li{
-    background-color: #6900d1 !important;
+    background-color: #fb0e88 !important;
 }
 
 @media only screen and (max-width: 800px){
@@ -223,7 +223,7 @@
 /*----------footer-------*/
 
 .footer{
-    background: #6900d1;
+    background: #fb0e88;
     padding-top: 5px;
 }
 .footer h2{
@@ -273,7 +273,7 @@
 
 
 
-/* 6900d1 */
+/* fb0e88 */
 /* fb0e88 */
 
 
